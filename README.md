@@ -1,4 +1,4 @@
-# EdgarStudingCourse
+# [Edgar](https://github.com/FarAway6834/Edgar)StudingCourse
 
 ---
 
