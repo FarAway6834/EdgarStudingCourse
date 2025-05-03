@@ -16,7 +16,7 @@
  > - 수 세기, 사칙연산, 수식 쓰기
  > - Entry • Scratch • Python • Javascript등에서 숫자 연산
 
-## [이론과 페턴](./Pettern.md)
+## [이론과 패턴](./Pettern.md)
  > **학습 내용**
  >  - 패턴
  >
